@@ -10,7 +10,7 @@
 * Player can configure entity properties
   * Configuration is adjustable during the game (not just on startup)
     * Potentially: Competition is interactive
-* GUI is used to *configure* entities (GUI not required during the game)
+* Graphics are optional, but configuration should be EASY (GUI of some sort is beneficial for easy configuration)
 * Competition progress is shown as it occurs (i.e. not all at once at the end)
 * Single & two player:
   * Single: Player configures both entities
